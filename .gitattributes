@@ -1,0 +1,5 @@
+Library/PlayerDataCache/iOS2/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.google.xr.cardboard@0ac5fd3fff/Runtime/iOS/GfxPluginCardboard.a filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.sysroot.linux-x86_64@2.0.6/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.toolchain.macos-arm64-linux-x86_64@2.0.0/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
