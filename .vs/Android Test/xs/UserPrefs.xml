@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{50F61487-8070-BD7A-768F-56D0EFC63483}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.google.xr.cardboard@0ac5fd3fff/Runtime/CardboardReticlePointer.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.google.xr.cardboard@0ac5fd3fff/Runtime/CardboardReticlePointer.cs" Line="185" Column="1" />
+      <File FileName="Assets/PlayerShoot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Android Test" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Samples" expanded="True">
+                <Node name="Google Cardboard XR Plugin for Unity" expanded="True">
+                  <Node name="1.21.0" expanded="True">
+                    <Node name="Hello Cardboard" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d3c90d55-d474-477b-98cf-8556f4d515c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

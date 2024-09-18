@@ -1,0 +1,81 @@
+﻿#include "pch-cpp.hpp"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+
+
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_pinvoke
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_com
+{
+};
+struct IntPtr_t 
+{
+	void* ___m_value;
+};
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915 
+{
+	union
+	{
+		struct
+		{
+		};
+		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
+	};
+};
+struct NSError_t2D5B776DCC1C16BD32BA4EB06DE60A3068378E80 
+{
+	intptr_t ___m_Self;
+};
+struct IntPtr_t_StaticFields
+{
+	intptr_t ___Zero;
+};
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_ARKitSessionDelegate_CoachingOverlayViewDidDeactivate_m65EDACCF49DE4C8A6E4CA7F6E3A7104D116432EE(intptr_t ___0_subsystemHandle);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_ARKitSessionDelegate_CoachingOverlayViewWillActivate_m3F9ECC227F1E397CE7C57A505FB3FFB8ADBE573B(intptr_t ___0_subsystemHandle);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_ARKitSessionDelegate_ConfigurationChanged_m476431686AC17DA3287883D35C2CAF98A1FA8558(intptr_t ___0_subsystemHandle);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_ARKitSessionDelegate_SessionDidFailWithError_mC4CFE813C1C8FCF592EE9B661DB1E51C8DD12399(intptr_t ___0_subsystemHandle, NSError_t2D5B776DCC1C16BD32BA4EB06DE60A3068378E80 ___1_error);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_ARKitSessionSubsystem_OnAsyncConversionComplete_m644D3F9DB9A9E22010B098BCF12F296ED7B219E6(int32_t ___0_status, int32_t ___1_worldMapId, intptr_t ___2_context);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_CultureInfo_OnCultureInfoChangedInAppX_m407BCFC1029A4485B7B063BC2F3601968C3BE577(Il2CppChar* ___0_language);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_OSSpecificSynchronizationContext_InvocationEntry_mF93C3CF6DBEC86E377576D840CAF517CB6E4D7E3(intptr_t ___0_arg);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_iOSStepCounter_OnDataReceived_m5026961D9D4D64A5930020A91D82DF64E65591C0(int32_t ___0_deviceId, int32_t ___1_numberOfSteps);
+
+
+IL2CPP_EXTERN_C const Il2CppMethodPointer g_ReversePInvokeWrapperPointers[];
+const Il2CppMethodPointer g_ReversePInvokeWrapperPointers[8] = 
+{
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ARKitSessionDelegate_CoachingOverlayViewDidDeactivate_m65EDACCF49DE4C8A6E4CA7F6E3A7104D116432EE),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ARKitSessionDelegate_CoachingOverlayViewWillActivate_m3F9ECC227F1E397CE7C57A505FB3FFB8ADBE573B),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ARKitSessionDelegate_ConfigurationChanged_m476431686AC17DA3287883D35C2CAF98A1FA8558),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ARKitSessionDelegate_SessionDidFailWithError_mC4CFE813C1C8FCF592EE9B661DB1E51C8DD12399),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ARKitSessionSubsystem_OnAsyncConversionComplete_m644D3F9DB9A9E22010B098BCF12F296ED7B219E6),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_CultureInfo_OnCultureInfoChangedInAppX_m407BCFC1029A4485B7B063BC2F3601968C3BE577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_OSSpecificSynchronizationContext_InvocationEntry_mF93C3CF6DBEC86E377576D840CAF517CB6E4D7E3),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_iOSStepCounter_OnDataReceived_m5026961D9D4D64A5930020A91D82DF64E65591C0),
+};
